@@ -26,7 +26,7 @@ package main
 import (
 	"log"
 
-	"github.com/malfunkt/iprange"
+	"github.com/ziiber/iprange"
 )
 
 func main() {
